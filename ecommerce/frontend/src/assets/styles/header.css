@@ -1,0 +1,10 @@
+.logo {
+  width: 100px;
+  height: auto;
+  max-height: 40px;
+  filter: brightness(80%);
+}
+
+.logo-svg {
+  fill: #ffffff;
+}
